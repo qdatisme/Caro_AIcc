@@ -25,3 +25,4 @@ AI sử dụng thuật toán **Minimax**, một thuật toán tìm kiếm trong 
 ### 1. Cài đặt thư viện cần thiết:
 ```bash
 pip install -r requirements.txt
+d
